@@ -1,3 +1,38 @@
 body {
     margin: 0;
+    background-color:#5ed66e;
 }
+
+h1 {
+    font-family: 'Londrina Shadow';
+    font-size: 4vw;
+    visibility: visible;
+    color: white;
+    justify-content: center;
+    font-weight: bold;
+    -webkit-text-stroke: 1px black;
+    
+  }
+
+  #instructions{
+    margin-left: 10%;
+    margin-top: 10%;
+    font-family: 'Lobster Two';;
+    font-size: 2vw;
+    visibility: visible;
+    color: white;
+    justify-content: left;
+    
+  }
+
+  #instructions2{
+    margin-left: 10%;
+    margin-top: 10%;
+    font-family: 'Lobster Two';;
+    font-size: 2vw;
+    visibility: visible;
+    color: white;
+    justify-content: left;
+    font-weight: bold;
+
+  }
