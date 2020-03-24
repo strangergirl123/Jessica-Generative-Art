@@ -3,6 +3,8 @@
 Name: Jessica Lu
 Title: Art Generator
 
+![Whale](https://user-images.githubusercontent.com/61464589/77376669-c9546880-6d68-11ea-814d-050d668fd9c6.JPG)
+
 Acknowledgements: 
 1. (part of the) Countdown Timer code: https://editor.p5js.org/marynotari/sketches/S1T2ZTMp-
 2. heart() function: https://editor.p5js.org/Mithru/sketches/Hk1N1mMQg
