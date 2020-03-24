@@ -1,4 +1,4 @@
-# Jessica-march-project
+# Jessica-generative-art
 
 Name: Jessica Lu
 Title: Art Generator
